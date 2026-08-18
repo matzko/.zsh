@@ -1,0 +1,9 @@
+{
+  "lastChangelogVersion": "0.84.2",
+  "skills": [
+    "~/.claude/skills",
+    "~/.config/opencode/skills"
+  ],
+  "theme": "dark"
+}
+
