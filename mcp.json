@@ -12,8 +12,7 @@
       "args": ["mcp"],
     },
     "linear": {
-      "command": "npx",
-      "args": ["-y", "mcp-remote", "https://mcp.linear.app/mcp"]
+      "url": "https://mcp.linear.app/mcp"
     },
     "smartbear-bugsnag": {
       "url": "https://bugsnag.mcp.smartbear.com/mcp",
